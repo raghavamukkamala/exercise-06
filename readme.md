@@ -4,4 +4,4 @@
 * staging and repository status diff
 * remote repositories
 * Fetch/push
-* demonstrate push from repmote
+* demonstrate push from remote
