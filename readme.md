@@ -5,3 +5,5 @@
 * remote repositories
 * Fetch/push
 * demonstrate push from remote
+* fetch and pull comparision
+
